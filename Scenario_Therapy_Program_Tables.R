@@ -1,4 +1,70 @@
 # ==============================================================================
+# Development of Scenario Therapy Program and Its Effect
+# ==============================================================================
+#
+# Author: Park, Soo-jin
+# Institution: Department of Education, Graduate School, Kyungsung University
+# Advisor: Cheon, Seong-Moon / Co-Advisor: Joo, Yong Kook
+#
+# Overview:
+# The purpose of this study is to develop a Scenario Therapy Program and verify
+# its effects on individuals who have experienced PTSD (Post-Traumatic Stress
+# Disorder). Considering that scenario writing is specialized in creating specific
+# scenes, this study utilizes the "making specific scenes" aspect of scenario
+# writing to help subjects expose and face their traumatic experiences.
+#
+# Key Variables:
+# - Depression
+# - Emotional Wellbeing
+# - Posttraumatic Growth (PTG)
+#
+# Research Models & Figures:
+# 1. Program Development Procedure (Figure 1)
+#    - Step 1: Planning (Goal setting, Literature review, Needs assessment)
+#    - Step 2: Designing (Goal establishment, Model development, Session structuring)
+#    - Step 3: Devising (Content selection, Pilot study, Expert consultation)
+#    - Step 4: Conducting (Implementation of the final program)
+#    - Step 5: Evaluating (Effectiveness verification, Data analysis)
+#
+# 2. Scenario Therapy Program Model (Figure 2)
+#    Trauma Experience → 1. Meeting → 2. Exposure → 3. Positive Rumination
+#    → 4. Emotional Re-experience → 5. Ending (Re-writing) → 6. New Possibility
+#    → Psychological Growth
+#
+# 3. Reflection of Components (Figure 3)
+#    - Meeting (Session 1): Orientation, Trust building
+#    - Exposure (Session 2, 3): Facing trauma, Objectification
+#    - Positive Rumination (Session 4): Intentional rumination, Cognitive reframing
+#    - Emotional Re-experience (Session 5, 6): Catharsis, Dramatic reenactment
+#    - Ending (Writing) (Session 7, 8): Creating alternatives, Future hope
+#    - New Possibility (Session 9): Social support, Self-affirmation
+#
+# 4. Experimental Design (Figure 4)
+#    - Experimental Group (n=10): Pre-test (O₁) → Scenario Therapy (X₁) → Post-test (O₂) → Follow-up (O₃)
+#    - Control Group (n=10): Pre-test (O₄) → (No Treatment) → Post-test (O₅) → Follow-up (O₆)
+#
+# Key Findings:
+# - Figure 5: Changes in Depression Scores
+#   Experimental Group showed a sharp decrease in depression scores immediately
+#   after the program (Post), which was maintained at the Follow-up.
+#   Significant interaction effect found (p < .001).
+#
+# - Figure 6: Changes in Emotional Wellbeing Scores
+#   Experimental Group showed a significant increase in emotional wellbeing
+#   scores at Post-test, maintaining the improved level at Follow-up.
+#   Significant interaction effect found (p < .001).
+#
+# - Figure 7: Changes in Posttraumatic Growth (PTG) Scores
+#   Experimental Group showed a dramatic increase in PTG scores after the program.
+#   Significant interaction effect found (p < .001).
+#
+# Conclusion:
+# These results suggest that the Scenario Therapy Program is an effective
+# intervention. It helps PTSD-experienced individuals overcome their psychological
+# trauma through exposure and scene reconstruction, ultimately leading them to
+# posttraumatic growth.
+#
+# ==============================================================================
 # 시나리오치료 프로그램 개발 및 효과 검증 연구
 # 표 데이터 (표 1 ~ 표 43)
 # ==============================================================================
