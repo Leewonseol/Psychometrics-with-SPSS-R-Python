@@ -268,3 +268,4 @@ cat(sprintf("Total Alpha     : %.3f\n", a_tot))
 
 cat(">> 해석: 0.7 이상이면 적절, 0.8 이상이면 우수함.\n")
 
+

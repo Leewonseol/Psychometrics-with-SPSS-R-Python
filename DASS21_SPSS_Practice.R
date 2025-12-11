@@ -272,3 +272,4 @@ cat("Depression Alpha:", round(alpha_dep$total$raw_alpha, 3), "\n")
 
 cat(">> 해석: 0.7 이상이면 신뢰도 합격.\n")
 
+
